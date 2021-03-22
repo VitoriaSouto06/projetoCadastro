@@ -5,10 +5,7 @@
  */
 package model;
 
-/**
- *
- * @author carlos
- */
+
 public class UsuarioBuscar {
     private int id;
     private String nome;

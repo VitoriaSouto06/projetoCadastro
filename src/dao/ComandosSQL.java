@@ -18,10 +18,8 @@ import javax.swing.JOptionPane;
 import model.UsuarioBuscar;
 import model.UsuarioCadastro;
 import model.UsuarioVerificar;
-/**
- *
- * @author carlos
- */
+
+
 public class ComandosSQL {
     private final Connection connection;
     

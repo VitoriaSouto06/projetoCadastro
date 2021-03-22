@@ -5,10 +5,7 @@
  */
 package model;
 
-/**
- *
- * @author carlos
- */
+
 public class UsuarioVerificar {
     private  String cpf;
 

@@ -10,10 +10,7 @@ import view.TelaCadastro;
 import view.TelaDelete;
 import view.TelaMenu;
 
-/**
- *
- * @author carlos
- */
+
 public class TelaMenuController {
     private TelaMenu view;
     

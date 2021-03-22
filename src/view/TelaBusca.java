@@ -14,10 +14,7 @@ import javax.swing.JTable;
 import javax.swing.JTextField;
 import javax.swing.table.DefaultTableModel;
 
-/**
- *
- * @author carlos
- */
+
 public class TelaBusca extends javax.swing.JFrame {
     DefaultTableModel modelo = new DefaultTableModel();
       

@@ -9,10 +9,7 @@ import controler.TelaDeleteController;
 import javax.swing.JFormattedTextField;
 import javax.swing.JTextField;
 
-/**
- *
- * @author carlos
- */
+
 public class TelaDelete extends javax.swing.JFrame {
 
     private final TelaDeleteController controller;

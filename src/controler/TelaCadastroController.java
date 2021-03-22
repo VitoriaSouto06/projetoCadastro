@@ -15,10 +15,7 @@ import javax.swing.JTextField;
 import model.UsuarioCadastro;
 import view.TelaCadastro;
 
-/**
- *
- * @author carlos
- */
+
 public class TelaCadastroController {
     
     private TelaCadastro view;

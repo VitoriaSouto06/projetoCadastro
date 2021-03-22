@@ -16,10 +16,7 @@ import javax.swing.JOptionPane;
 import javax.swing.JTextField;
 import model.UsuarioVerificar;
 
-/**
- *
- * @author carlos
- */
+
 public class TelaDeleteController {
     private final TelaDelete view;
 

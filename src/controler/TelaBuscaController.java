@@ -21,10 +21,6 @@ import javax.swing.JOptionPane;
 import model.UsuarioBuscar;
 
 
-/**
- *
- * @author carlos
- */
 public class TelaBuscaController {
 
     private TelaBusca view;

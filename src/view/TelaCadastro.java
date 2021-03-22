@@ -16,10 +16,7 @@ import java.sql.Connection;
 import javax.swing.JFormattedTextField;
 import javax.swing.JTextField;
 
-/**
- *
- * @author carlos
- */
+
 public class TelaCadastro extends javax.swing.JFrame {
 
     private final TelaCadastroController controller;

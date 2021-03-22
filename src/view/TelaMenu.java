@@ -8,10 +8,7 @@ package view;
 import controler.TelaCadastroController;
 import controler.TelaMenuController;
 
-/**
- *
- * @author carlos
- */
+
 public class TelaMenu extends javax.swing.JFrame {
 
     private final TelaMenuController controller;
